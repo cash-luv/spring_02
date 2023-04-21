@@ -13,6 +13,9 @@
 <body>
 <a href="/hello1">hello1으로 이동</a>
 <button onclick="fun1()">hello2로 이동</button>
+<a href="/hello3">hello3</a>
+<a href="/hello4">hello4</a>
+<a href="/hello5">hello5</a>
 </body>
 <script>
     const fun1 = () =>{
